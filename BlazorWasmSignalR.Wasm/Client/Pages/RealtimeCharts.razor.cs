@@ -114,6 +114,7 @@ public partial class RealtimeCharts
     {
         PlotOptions = new()
         {
+           
             RadialBar = new()
             {
                 StartAngle = -135,
